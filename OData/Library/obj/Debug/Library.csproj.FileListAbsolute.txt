@@ -1,0 +1,14 @@
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\Library.dll.config
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\Library.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\Library.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\EntityFramework.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\Npgsql.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\EntityFramework.xml
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\bin\Debug\Npgsql.xml
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\obj\Debug\Library.dll
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\obj\Debug\Library.pdb
+C:\Users\Tomek\Documents\Visual Studio 2015\Projects\Zajecia9\OData\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
